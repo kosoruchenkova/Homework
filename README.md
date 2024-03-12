@@ -1,4 +1,4 @@
-#Homework
+# Homework
 
 import pygame  # Import pygame library
 import random  # Import random library for random number generation
