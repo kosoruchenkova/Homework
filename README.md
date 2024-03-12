@@ -1,5 +1,5 @@
+
 #Homework
-# Purpose of the work: To create an animation of stars moving on the screen. Each star changes coordinates and brightness to create the effect of movement and color change
 
 import pygame  # Import pygame library
 import random  # Import random library for random number generation
