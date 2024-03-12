@@ -1,4 +1,3 @@
-
 #Homework
 
 import pygame  # Import pygame library
