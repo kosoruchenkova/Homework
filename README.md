@@ -1,3 +1,4 @@
+#Homework
 # Purpose of the work: To create an animation of stars moving on the screen. Each star changes coordinates and brightness to create the effect of movement and color change
 
 import pygame  # Import pygame library
@@ -56,7 +57,7 @@ while not done:
     pygame.display.flip()  
 pygame.quit() # Quit the game
 
-
+#This code creates a visual effect of starry sky animation, where stars twinkle, move and change their parameters. The purpose of this work can be pedagogical, using animation to teach the Pygame library, new algorithms, or basic computer graphics concepts.
 
 
 
