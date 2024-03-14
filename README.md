@@ -83,7 +83,7 @@ while not done:
 pygame.quit() 
 ```
 ## Conclusion
-This code creates a visual effect of starry sky animation, where stars twinkle, move and change their parameters. The purpose of this work can be pedagogical, using animation to teach the Pygame library, new algorithms, or basic computer graphics concepts. Also a "unique feature" of the work was also created, the README.md file was prepared.
+This code creates a visual effect of starry sky animation, where stars twinkle, move and change their parameters. The purpose of this work can be pedagogical, using animation to teach the Pygame library, new algorithms, or basic computer graphics concepts. Also a "unique feature" of the work was created, the README.md file was prepared.
 
 
 
